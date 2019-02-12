@@ -10,7 +10,7 @@ matrix:
 
 # command to install dependencies
 install:
-  - pip install -e .[all]
+  - pip install --upgrade -e .[all]
 
 # command to run tests
 script:
