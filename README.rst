@@ -8,8 +8,8 @@ Pensive |travis| |appveyor| |codecov| |readthedocs|
    :target: https://travis-ci.org/ComSciCtr/pensive
    :alt: build status
 
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/to2kso5s9a07ehbe?svg=true
-   :target: https://ci.appveyor.com/project/ComSciCtr/pensive/branch/master
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/tckvsexsr46fvf23?svg=true
+   :target: https://ci.appveyor.com/project/Autoplectic/pensive/branch/master
    :alt: build status
 
 .. |codecov| image:: https://codecov.io/gh/ComSciCtr/pensive/branch/master/graph/badge.svg
