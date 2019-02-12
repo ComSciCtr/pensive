@@ -95,7 +95,7 @@ setup(
     # $ pip install -e .[dev,test]
     extras_require={
         'dev': requires_dev,
-        'all': requires_dev + requires_plotting,
+        'all': requires_dev,
     },
 
     # If there are data files included in your packages that need to be

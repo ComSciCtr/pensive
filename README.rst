@@ -1,7 +1,7 @@
 Pensive |travis| |appveyor| |codecov| |readthedocs|
 ====================================================
 
-``Pensive`` is a package for the study of hidden Markov model.
+``Pensive`` is a package for the study of hidden Markov models.
 
 
 .. |travis| image:: https://travis-ci.org/ComSciCtr/pensive.svg?branch=master
